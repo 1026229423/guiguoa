@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f1aa1b7-56d9-46b0-b59b-d69f2c87ba07" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="new-activiti-diagram.bpmn20" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KAQWNkyVAB7Tn6NlJIYfjqJwiZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/4/代码/后端代码/guigu-oa-parent",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "8a604bca848cb439ecf3b1c0c25b4f2b"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\guigu-oa\guigu-oa-parent\service-oa\target\classes\static" />
+      <recent name="C:\Users\Administrator\Desktop\guigu-oa\guigu-oa-parent\service-oa\src\main\resources\process" />
+      <recent name="C:\Users\Administrator\Desktop\guigu-oa\guigu-oa-parent\service-oa\target\classes" />
+      <recent name="C:\Users\Administrator\Desktop\guigu-oa\guigu-oa-parent\service-oa\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\guigu-oa\guigu-oa-parent\service-oa\src\main\java\com\atguigu\process" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu" />
+      <recent name="com.atguigu.auth" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.auth.activiti" />
+      <recent name="com.atguigu.security.config" />
+      <recent name="com.atguigu.auth" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.code.CodeGet" />
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.common.jwt.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.common.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMpDemo1.testQuery1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.auth.TestMpDemo1" />
+      <option name="METHOD_NAME" value="testQuery1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMpDemo1.testQuery7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.auth.TestMpDemo1" />
+      <option name="METHOD_NAME" value="testQuery7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-oa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ServiceAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JwtHelper" />
+      <item itemvalue="Application.CodeGet" />
+      <item itemvalue="JUnit.TestMpDemo1.testQuery1" />
+      <item itemvalue="JUnit.TestMpDemo1.testQuery7" />
+      <item itemvalue="Spring Boot.ServiceAuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAuthApplication" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="Application.CodeGet" />
+        <item itemvalue="JUnit.TestMpDemo1.testQuery7" />
+        <item itemvalue="JUnit.TestMpDemo1.testQuery1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f1aa1b7-56d9-46b0-b59b-d69f2c87ba07" name="Changes" comment="" />
+      <created>1673414939023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673414939023</updated>
+      <workItem from="1673414940320" duration="2694000" />
+      <workItem from="1673489183448" duration="4161000" />
+      <workItem from="1673572701193" duration="3170000" />
+      <workItem from="1674810399814" duration="621000" />
+      <workItem from="1674867512804" duration="4966000" />
+      <workItem from="1674886661872" duration="7490000" />
+      <workItem from="1674954154307" duration="8139000" />
+      <workItem from="1675040717141" duration="1613000" />
+      <workItem from="1675127305474" duration="2744000" />
+      <workItem from="1675216972984" duration="7525000" />
+      <workItem from="1675303886687" duration="17751000" />
+      <workItem from="1675476193676" duration="7328000" />
+      <workItem from="1675563024522" duration="16178000" />
+      <workItem from="1675645023866" duration="18147000" />
+      <workItem from="1675732765783" duration="10659000" />
+      <workItem from="1675829568619" duration="2451000" />
+      <workItem from="1675908648323" duration="1918000" />
+      <workItem from="1675994841849" duration="5430000" />
+      <workItem from="1676180228739" duration="104000" />
+      <workItem from="1676180346628" duration="3532000" />
+      <workItem from="1676249801637" duration="26171000" />
+      <workItem from="1676331870116" duration="19680000" />
+      <workItem from="1676421272866" duration="23754000" />
+      <workItem from="1676510776984" duration="23537000" />
+      <workItem from="1676596185003" duration="32154000" />
+      <workItem from="1697518895011" duration="4933000" />
+      <workItem from="1697531642851" duration="4398000" />
+      <workItem from="1697541956103" duration="7939000" />
+      <workItem from="1697597188982" duration="6454000" />
+      <workItem from="1697618521449" duration="3995000" />
+      <workItem from="1697679138884" duration="3960000" />
+      <workItem from="1697686283585" duration="4753000" />
+      <workItem from="1697778318300" duration="1701000" />
+      <workItem from="1698117886055" duration="7693000" />
+      <workItem from="1698205564893" duration="597000" />
+      <workItem from="1698230373616" duration="4235000" />
+      <workItem from="1698287579654" duration="4451000" />
+      <workItem from="1698300850648" duration="6296000" />
+      <workItem from="1698310692349" duration="4836000" />
+      <workItem from="1698373515272" duration="7870000" />
+      <workItem from="1698578052160" duration="626000" />
+      <workItem from="1698634369369" duration="2133000" />
+      <workItem from="1698640558500" duration="5132000" />
+      <workItem from="1698672093243" duration="1929000" />
+      <workItem from="1698720022495" duration="4628000" />
+      <workItem from="1698759578719" duration="2615000" />
+      <workItem from="1698825587363" duration="1713000" />
+      <workItem from="1698910866525" duration="3168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class</url>
+          <line>106</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-oa/src/main/java/com/atguigu/process/activiti/ModelSaveRestResource.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-oa/src/main/java/com/atguigu/process/activiti/ModelSaveRestResource.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
